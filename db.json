@@ -1,0 +1,24 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin123"
+    }
+  ],
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Mouse Gamer RGB",
+      "preco": 99.90,
+      "categoria": "periferico"
+    },
+    {
+      "id": 2,
+      "nome": "Teclado Mecânico",
+      "preco": 249.90,
+      "categoria": "periferico"
+    }
+  ],
+  "pedidos": []
+}
